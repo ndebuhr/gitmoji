@@ -46,6 +46,7 @@ export default {
   'passport-control': '#4dc6dc',
   pencil: '#ffce49',
   pencil2: '#ffce49',
+  plugin: '#f2d273',
   poop: '#a78674',
   pushpin: '#39c2f1',
   recycle: '#77e856',

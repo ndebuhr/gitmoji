@@ -551,6 +551,14 @@
       "description": "Improve developer experience",
       "name": "technologist",
       "semver": null
+    },
+    {
+      "emoji": "🧩",
+      "entity": "&#x1F9E9;",
+      "code": ":plugin:",
+      "description": "Add, update, or remove plugins or extensions.",
+      "name": "plugin",
+      "semver": null
     }
   ]
 }
